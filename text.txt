@@ -1,6 +1,6 @@
 Hometask2
 
-1.	GIT repository exists on git.epam.com or github.com;
+
 2.	Access is granted to a mentor and curators;
 3.	A mentee has local copy of remote repository;
 4.	There is ‘master’ branch with at least 3 commits;
