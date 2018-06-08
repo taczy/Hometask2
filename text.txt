@@ -1,0 +1,12 @@
+Hometask2
+
+1.	GIT repository exists on git.epam.com or github.com;
+2.	Access is granted to a mentor and curators;
+3.	A mentee has local copy of remote repository;
+4.	There is ‘master’ branch with at least 3 commits;
+5.	There is ‘develop’ branch with at least 2 commits;
+6.	‘develop’ branch was merged into ‘master’ branch at least once. It should be visible in history and/or on ‘GIT Repository Browser’;
+7.	‘develop’ branch was rebased at least once. It should be visible in history and/or on ‘GIT Repository Browser’;
+8.	There is at least one ‘cherry-picked commit’. It should be visible in history and/or on ‘GIT Repository Browser’
+9.	There is at least one ‘reverted’ commit. It should be visible in history and/or on ‘GIT Repository Browser’;
+10.	There is at least one resolved ‘merge conflict’. It should be visible in history and/or on ‘GIT Repository Browser’
